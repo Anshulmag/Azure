@@ -1,4 +1,3 @@
-resource "azurerm_resource_group" "abcd" {
+resource "azurerm_resource_group" "nice" {
 name="titanRg"
-location="East US"
-}
+location="West US"}
