@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "resourcegroup"{
 
-name="Onemorerg"
+name="Onemorerg67"
 location="West US"
 }
 
