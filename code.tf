@@ -1,3 +1,4 @@
 resource "azurerm_resource_group" "nice" {
 name="titanRg"
-location="West US"}
+location="West US"
+}
