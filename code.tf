@@ -1,6 +1,5 @@
-resource "azurerm_resource_group" "resourcegroup"{
+resource "azurerm_resource_group" "abcd"{
 
-name="Bitbucket"
-location="East US"
+name="titanRg"
+location"East US"
 }
-
